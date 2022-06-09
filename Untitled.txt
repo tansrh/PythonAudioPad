@@ -1,3 +1,5 @@
+# pip install pyttsx3
+#pip install pywin32
 from tkinter import *
 from tkinter.messagebox import showinfo
 from tkinter.filedialog import askopenfilename, asksaveasfilename
